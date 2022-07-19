@@ -1,0 +1,14 @@
+{
+  "name": "vitest-tabs-issue-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^0.18.1"
+  }
+}
